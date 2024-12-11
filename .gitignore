@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folder
+venv/
+env/
+
+# Distribution files
+/dist/
+*.egg-info/
+
+# IDE files (Optional, if you use a specific IDE)
+.vscode/
+.idea/
+
+# Other unnecessary files
+*.log
+*.bak
