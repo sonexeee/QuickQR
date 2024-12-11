@@ -7,8 +7,15 @@ It got delete, it kinda the same as 0.3.0 but it a lost file now
 
 ## Installation
 
-To install QuickQR, run:
+To install QuickQR to your python use this command:
+It will update the lastest version.
 
 ```bash
 pip install quickqr
+
+# For upgrade it
+
+```bash
+pip install --upgrade quickqr
+
 
