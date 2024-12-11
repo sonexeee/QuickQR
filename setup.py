@@ -7,6 +7,7 @@ setup(
     install_requires=[
         "qrcode[pil]",
         "Pillow",
+        "termcolor",
     ],
     description="A QR Code Generator with customizable options",
     long_description=open("README.md").read(),
