@@ -1,10 +1,10 @@
-QuickQR
+# QuickQR
 
-QuickQR is a Python module that allows you to generate QR codes from URLs, text, and images. Very easy to use 
+A simple Python module for generating QR codes from URLs, text, and even images. VERY easy yea.
 
 ## Installation
 
-You can install QuickQR using pip:
+To install QuickQR, run:
 
 ```bash
 pip install quickqr
