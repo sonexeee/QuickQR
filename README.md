@@ -11,6 +11,11 @@ To install QuickQR to your python use this command:
 It will update the lastest version.
 
 ```bash
-pip install quickqr 
+pip install quickqr
+
+```
+# For upgrade it if you install it already:
+```bash
+pip install --upgrade quickqr
 
 
