@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="quickqr",  # Package name
-    version="0.2.0",  # Version number
+    version="0.3.0",  # Version number
     packages=find_packages(),
     install_requires=[
         "qrcode[pil]",
